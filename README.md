@@ -18,6 +18,7 @@ Before running this project, ensure you have the following installed:
 - [Node.js](https://nodejs.org/)
 - [MetaMask](https://metamask.io/) (for interacting with the Ethereum network)
 - [Hardhat](https://hardhat.org/) (for local Ethereum development)
+- [Vite](https://vitejs.dev/) (for fast and modern frontend development)
 
 ## Installation
 
@@ -51,7 +52,7 @@ Before running this project, ensure you have the following installed:
 5. **Start the React app:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 6. **Connect MetaMask:**
