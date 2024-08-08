@@ -1,4 +1,4 @@
-# MyNotes-DApp# Notes DApp
+# MyNotes-DApp
 
 ## Description
 
