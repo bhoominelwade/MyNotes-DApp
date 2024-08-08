@@ -2,7 +2,7 @@
 
 ## Description
 
-The Notes DApp is a decentralized application that allows users to create, store, and view notes on the Ethereum blockchain. Built using React for the frontend and Solidity for the smart contract backend, this app demonstrates a simple yet powerful way to interact with the blockchain.
+The Notes DApp is a decentralized application that allows users to create, store, and view notes on the Ethereum Sepholia Test-net. Built using React for the front end and Solidity for the smart contract backend, this app demonstrates a simple yet powerful way to interact with the blockchain.
 
 ## Features
 
